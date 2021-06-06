@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1. hello j96
 2. hello master
-3. banana
+4. banana
+=======
+1. hello master
+2. hello j96
+3. apple
+>>>>>>> j96
