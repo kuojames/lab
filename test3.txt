@@ -1,2 +1,10 @@
-3. grape
-4. peach
+<<<<<<< HEAD
+1. grape
+2. peace
+3. apple
+4. banana
+>>>>>>> j96
+
+
+
+
